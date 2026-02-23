@@ -1,0 +1,258 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{kotex}
+\usepackage{fontspec}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{setspace}
+\onehalfspacing
+
+\definecolor{accent}{RGB}{0,85,140}
+\definecolor{light}{RGB}{242,247,252}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=accent,
+  urlcolor=accent
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small macro\_all.csv 요약 리포트}
+\fancyhead[R]{\small \thepage}
+
+\titleformat{\section}{\Large\bfseries\color{accent}}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries\color{accent}}{\thesubsection}{1em}{}
+
+\begin{document}
+
+\begin{titlepage}
+\centering
+\vspace*{4.0cm}
+{\Huge\bfseries\color{accent} macro\_all.csv 데이터 리포트\par}
+\vspace{1.2cm}
+{\Large 글로벌 거시경제 통합 데이터셋 요약\par}
+\vspace{2.0cm}
+{\large 생성 시각: 2026-02-24 08:07\par}
+\vspace{0.5cm}
+{\large 파일: \texttt{data/macro\_all.csv}\par}
+\vfill
+{\normalsize 본 문서는 전체 원시행(약 9.9만 행)을 직접 나열하지 않고,\par
+요약 통계 + 주요 분포 + 샘플 행 중심으로 구성했습니다.\par}
+\end{titlepage}
+
+\section{데이터셋 개요}
+\begin{itemize}
+\item 총 행 수: \textbf{99,689}
+\item 총 컬럼 수: \textbf{8}
+\item 파일 크기: \textbf{6.01 MB}
+\item 소스 수: \textbf{6} (BIS/FRED/Factbook/IMF/OECD/WB)
+\item 국가 코드 수: \textbf{16}
+\item 지표 수: \textbf{103}
+\item 기간 값 개수: \textbf{1525}
+\end{itemize}
+
+\section{결측치 현황}
+\begin{tabular}{llr}
+\toprule
+컬럼 & 결측개수 & 결측비율(\%) \\
+\midrule
+소스 & 0 & 0.000000 \\
+국가코드 & 0 & 0.000000 \\
+국가명 & 0 & 0.000000 \\
+기간 & 0 & 0.000000 \\
+지표명 & 0 & 0.000000 \\
+값 & 106 & 0.106000 \\
+단위 & 0 & 0.000000 \\
+주기 & 0 & 0.000000 \\
+\bottomrule
+\end{tabular}
+
+
+\section{소스별 요약}
+\begin{tabular}{lllllll}
+\toprule
+소스 & 행수 & 국가수 & 지표수 & 주기수 & 최소기간 & 최대기간 \\
+\midrule
+OECD & 67,165 & 10 & 45 & 3 & 2007 & 2026-01 \\
+BIS & 20,416 & 10 & 19 & 2 & 2007-01 & 2026-01 \\
+FRED & 4,584 & 1 & 18 & 3 & 2007-01-01 00:00:00 & 2026-02-14 00:00:00 \\
+IMF & 4,299 & 15 & 12 & 1 & 2007 & 2030 \\
+WB & 2,970 & 15 & 11 & 1 & 2007 & 2024 \\
+Factbook & 255 & 15 & 17 & 1 & 2023 & 2024 \\
+\bottomrule
+\end{tabular}
+
+
+\section{주기별 분포}
+\begin{tabular}{llr}
+\toprule
+주기 & 행수 & 비중(\%) \\
+\midrule
+월별 & 79,221 & 79.470000 \\
+분기 & 11,765 & 11.800000 \\
+연간 & 7,450 & 7.470000 \\
+주별 & 998 & 1.000000 \\
+스냅샷 & 255 & 0.260000 \\
+\bottomrule
+\end{tabular}
+
+
+\section{국가별 행 수 Top 20}
+\begin{longtable}{llr}
+\toprule
+국가명 & 행수 & 비중(\%) \\
+\midrule
+\endfirsthead
+\toprule
+국가명 & 행수 & 비중(\%) \\
+\midrule
+\endhead
+\midrule
+\multicolumn{3}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+미국 & 14,716 & 14.760000 \\
+프랑스 & 10,142 & 10.170000 \\
+독일 & 10,100 & 10.130000 \\
+한국 & 9,915 & 9.950000 \\
+영국 & 9,787 & 9.820000 \\
+일본 & 9,700 & 9.730000 \\
+이탈리아 & 9,614 & 9.640000 \\
+캐나다 & 9,446 & 9.480000 \\
+호주 & 8,341 & 8.370000 \\
+중국 & 5,407 & 5.420000 \\
+브라질 & 503 & 0.500000 \\
+인도네시아 & 503 & 0.500000 \\
+튀르키예 & 503 & 0.500000 \\
+멕시코 & 503 & 0.500000 \\
+인도 & 492 & 0.490000 \\
+CH & 17 & 0.020000 \\
+\end{longtable}
+
+
+\section{지표별 행 수 Top 30}
+\begin{longtable}{llr}
+\toprule
+지표명 & 행수 & 비중(\%) \\
+\midrule
+\endfirsthead
+\toprule
+지표명 & 행수 & 비중(\%) \\
+\midrule
+\endhead
+\midrule
+\multicolumn{3}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+경기선행지수 & 6,778 & 6.800000 \\
+CLI\_RS & 6,504 & 6.520000 \\
+산업생산\_지수 & 6,097 & 6.120000 \\
+산업생산\_전년비 & 5,611 & 5.630000 \\
+산업생산\_전월비 & 5,172 & 5.190000 \\
+CPI\_지수 & 4,301 & 4.310000 \\
+CPI\_전년비 & 4,289 & 4.300000 \\
+정책금리 & 3,845 & 3.860000 \\
+실업률 & 2,677 & 2.690000 \\
+CLI\_진폭조정 & 2,290 & 2.300000 \\
+단기금리\_3개월 & 2,288 & 2.300000 \\
+경기종합지수 & 2,282 & 2.290000 \\
+장기금리\_국채 & 2,205 & 2.210000 \\
+명목실효환율 & 2,061 & 2.070000 \\
+실질실효환율 & 2,061 & 2.070000 \\
+CLI\_CCICP & 2,060 & 2.070000 \\
+CPI\_전월비 & 2,022 & 2.030000 \\
+CLI\_LOCOSP & 1,603 & 1.610000 \\
+CLI\_LOCOCI & 1,145 & 1.150000 \\
+CLI\_LOCOSI & 1,144 & 1.150000 \\
+민간신용\_GDP비 & 1,010 & 1.010000 \\
+미국\_신규실업수당청구 & 998 & 1.000000 \\
+CLI\_LOCOBS & 916 & 0.920000 \\
+CLI\_LOCOBP & 914 & 0.920000 \\
+CLI\_LOCOOD & 850 & 0.850000 \\
+GDP성장률\_전년동기비 & 759 & 0.760000 \\
+주택가격\_실질\_지수 & 750 & 0.750000 \\
+주택가격\_명목\_전년비 & 750 & 0.750000 \\
+주택가격\_명목\_지수 & 750 & 0.750000 \\
+주택가격\_실질\_전년비 & 750 & 0.750000 \\
+\end{longtable}
+
+
+\section{소스별 샘플 데이터 (각 소스 8행)}
+\begin{longtable}{llllllll}
+\toprule
+소스 & 국가명 & 코드 & 기간 & 지표명 & 단위 & 주기 & 값 \\
+\midrule
+\endfirsthead
+\toprule
+소스 & 국가명 & 코드 & 기간 & 지표명 & 단위 & 주기 & 값 \\
+\midrule
+\endhead
+\midrule
+\multicolumn{8}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+BIS & 호주 & AU & 2026-01 & 명목실효환율 & 지수 & 월별 & 104.2700 \\
+BIS & 호주 & AU & 2026-01 & 실질실효환율 & 지수 & 월별 & 107.0400 \\
+BIS & 호주 & AU & 2026-01 & 정책금리 & \% & 월별 & 3.6000 \\
+BIS & 캐나다 & CA & 2026-01 & 명목실효환율 & 지수 & 월별 & 98.6400 \\
+BIS & 캐나다 & CA & 2026-01 & 실질실효환율 & 지수 & 월별 & 94.1100 \\
+BIS & 캐나다 & CA & 2026-01 & 정책금리 & \% & 월별 & 2.2500 \\
+BIS & 중국 & CN & 2026-01 & 정책금리 & \% & 월별 & 3.0000 \\
+BIS & 독일 & DE & 2026-01 & 명목실효환율 & 지수 & 월별 & 102.4000 \\
+FRED & 미국 & US & 2026-02-14 00:00:00 & 미국\_신규실업수당청구 & 건 & 주별 & 206,000.0000 \\
+FRED & 미국 & US & 2026-02-07 00:00:00 & 미국\_신규실업수당청구 & 건 & 주별 & 229,000.0000 \\
+FRED & 미국 & US & 2026-02-01 00:00:00 & 미국\_10년국채수익률 & \% & 월별 &  \\
+FRED & 미국 & US & 2026-02-01 00:00:00 & 미국\_2년국채수익률 & \% & 월별 &  \\
+FRED & 미국 & US & 2026-02-01 00:00:00 & 미국\_장단기스프레드\_10Y2Y & \%p & 월별 &  \\
+FRED & 미국 & US & 2026-01-31 00:00:00 & 미국\_신규실업수당청구 & 건 & 주별 & 232,000.0000 \\
+FRED & 미국 & US & 2026-01-24 00:00:00 & 미국\_신규실업수당청구 & 건 & 주별 & 209,000.0000 \\
+FRED & 미국 & US & 2026-01-17 00:00:00 & 미국\_신규실업수당청구 & 건 & 주별 & 210,000.0000 \\
+Factbook & 호주 & AU & 2024 & 1인당GDP & USD & 스냅샷 & 60,100.0000 \\
+Factbook & 호주 & AU & 2024 & GDP\_PPP & USD & 스냅샷 & 1,635,000,000,000.0000 \\
+Factbook & 호주 & AU & 2024 & GDP성장률 & \% & 스냅샷 & 1.4000 \\
+Factbook & 호주 & AU & 2024 & 경상수지 & USD & 스냅샷 & 34,402,000,000.0000 \\
+Factbook & 호주 & AU & 2024 & 노동력 & 명 & 스냅샷 & 14,912,000.0000 \\
+Factbook & 호주 & AU & 2024 & 농업비중 & \% & 스냅샷 & 2.2000 \\
+Factbook & 호주 & AU & 2024 & 명목GDP & USD & 스냅샷 & 1,752,000,000,000.0000 \\
+Factbook & 호주 & AU & 2024 & 산업비중 & \% & 스냅샷 & 26.0000 \\
+IMF & 호주 & AU & 2030 & 1인당GDP & USD & 연간 & 79,263.2540 \\
+IMF & 호주 & AU & 2030 & 1인당GDP\_PPP & 국제달러 & 연간 & 81,828.4020 \\
+IMF & 호주 & AU & 2030 & CPI인플레이션 & \% & 연간 & 2.5000 \\
+IMF & 호주 & AU & 2030 & CPI인플레이션\_기말 & \% & 연간 & 2.5000 \\
+IMF & 호주 & AU & 2030 & GDP\_PPP & 십억국제달러 & 연간 & 2,410.8320 \\
+IMF & 호주 & AU & 2030 & GDP성장률 & \% & 연간 & 2.3000 \\
+IMF & 호주 & AU & 2030 & 경상수지\_GDP비 & \% & 연간 & -2.0000 \\
+IMF & 호주 & AU & 2030 & 명목GDP & 십억USD & 연간 & 2,335.2580 \\
+OECD & 호주 & AU & 2026-01 & CLI\_CCICP & 지수 & 월별 & 99.2863 \\
+OECD & 호주 & AU & 2026-01 & CLI\_LOCOLT & 지수 & 월별 & 98.8189 \\
+OECD & 호주 & AU & 2026-01 & CLI\_LOCOSP & 지수 & 월별 & 100.2723 \\
+OECD & 호주 & AU & 2026-01 & CLI\_진폭조정 & 지수 & 월별 & 100.7721 \\
+OECD & 호주 & AU & 2026-01 & 경기선행지수 & 지수 & 월별 & 100.9096 \\
+OECD & 호주 & AU & 2026-01 & 단기금리\_3개월 & \% & 월별 & 3.7700 \\
+OECD & 호주 & AU & 2026-01 & 장기금리\_국채 & \% & 월별 & 4.7400 \\
+OECD & 호주 & AU & 2026-01 & 정책금리 & \% & 월별 & 3.6000 \\
+WB & 호주 & AU & 2024 & 1인당GDP & USD & 연간 & 64,603.9856 \\
+WB & 호주 & AU & 2024 & CPI인플레이션 & \% & 연간 & 3.1616 \\
+WB & 호주 & AU & 2024 & FDI순유입 & USD & 연간 & 53,950,665,928.6456 \\
+WB & 호주 & AU & 2024 & GDP\_PPP & 국제달러 & 연간 & 1,961,194,326,932.4399 \\
+WB & 호주 & AU & 2024 & GDP성장률 & \% & 연간 & 1.3734 \\
+WB & 호주 & AU & 2024 & 광의통화\_GDP비 & \% & 연간 & 129.4149 \\
+WB & 호주 & AU & 2024 & 명목GDP & USD & 연간 & 1,757,022,451,652.8301 \\
+WB & 호주 & AU & 2024 & 무역\_GDP비 & \% & 연간 & 47.1454 \\
+\end{longtable}
+
+
+\end{document}
