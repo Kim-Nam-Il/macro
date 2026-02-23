@@ -1,0 +1,271 @@
+﻿country_id,country_name,indicator_id,indicator_name,date,value
+AU,Australia,SP.POP.TOTL,"Population, total",2007,20827622
+AU,Australia,SP.POP.TOTL,"Population, total",2008,21249199
+AU,Australia,SP.POP.TOTL,"Population, total",2009,21691653
+AU,Australia,SP.POP.TOTL,"Population, total",2010,22031750
+AU,Australia,SP.POP.TOTL,"Population, total",2011,22340024
+AU,Australia,SP.POP.TOTL,"Population, total",2012,22733465
+AU,Australia,SP.POP.TOTL,"Population, total",2013,23128129
+AU,Australia,SP.POP.TOTL,"Population, total",2014,23475686
+AU,Australia,SP.POP.TOTL,"Population, total",2015,23815995
+AU,Australia,SP.POP.TOTL,"Population, total",2016,24190907
+AU,Australia,SP.POP.TOTL,"Population, total",2017,24592588
+AU,Australia,SP.POP.TOTL,"Population, total",2018,24963258
+AU,Australia,SP.POP.TOTL,"Population, total",2019,25334826
+AU,Australia,SP.POP.TOTL,"Population, total",2020,25649248
+AU,Australia,SP.POP.TOTL,"Population, total",2021,25685412
+AU,Australia,SP.POP.TOTL,"Population, total",2022,26018721
+AU,Australia,SP.POP.TOTL,"Population, total",2023,26659922
+AU,Australia,SP.POP.TOTL,"Population, total",2024,27196812
+BR,Brazil,SP.POP.TOTL,"Population, total",2007,188552320
+BR,Brazil,SP.POP.TOTL,"Population, total",2008,190367302
+BR,Brazil,SP.POP.TOTL,"Population, total",2009,192079951
+BR,Brazil,SP.POP.TOTL,"Population, total",2010,193701929
+BR,Brazil,SP.POP.TOTL,"Population, total",2011,195284734
+BR,Brazil,SP.POP.TOTL,"Population, total",2012,196876111
+BR,Brazil,SP.POP.TOTL,"Population, total",2013,198478299
+BR,Brazil,SP.POP.TOTL,"Population, total",2014,200085127
+BR,Brazil,SP.POP.TOTL,"Population, total",2015,201675532
+BR,Brazil,SP.POP.TOTL,"Population, total",2016,203218114
+BR,Brazil,SP.POP.TOTL,"Population, total",2017,204703445
+BR,Brazil,SP.POP.TOTL,"Population, total",2018,206107261
+BR,Brazil,SP.POP.TOTL,"Population, total",2019,207455459
+BR,Brazil,SP.POP.TOTL,"Population, total",2020,208660842
+BR,Brazil,SP.POP.TOTL,"Population, total",2021,209550294
+BR,Brazil,SP.POP.TOTL,"Population, total",2022,210306415
+BR,Brazil,SP.POP.TOTL,"Population, total",2023,211140729
+BR,Brazil,SP.POP.TOTL,"Population, total",2024,211998573
+CA,Canada,SP.POP.TOTL,"Population, total",2007,32888886
+CA,Canada,SP.POP.TOTL,"Population, total",2008,33247298
+CA,Canada,SP.POP.TOTL,"Population, total",2009,33630069
+CA,Canada,SP.POP.TOTL,"Population, total",2010,34005902
+CA,Canada,SP.POP.TOTL,"Population, total",2011,34339221
+CA,Canada,SP.POP.TOTL,"Population, total",2012,34713395
+CA,Canada,SP.POP.TOTL,"Population, total",2013,35080992
+CA,Canada,SP.POP.TOTL,"Population, total",2014,35434066
+CA,Canada,SP.POP.TOTL,"Population, total",2015,35704498
+CA,Canada,SP.POP.TOTL,"Population, total",2016,36110803
+CA,Canada,SP.POP.TOTL,"Population, total",2017,36545075
+CA,Canada,SP.POP.TOTL,"Population, total",2018,37072620
+CA,Canada,SP.POP.TOTL,"Population, total",2019,37618495
+CA,Canada,SP.POP.TOTL,"Population, total",2020,38028638
+CA,Canada,SP.POP.TOTL,"Population, total",2021,38239864
+CA,Canada,SP.POP.TOTL,"Population, total",2022,38935934
+CA,Canada,SP.POP.TOTL,"Population, total",2023,40083484
+CA,Canada,SP.POP.TOTL,"Population, total",2024,41288599
+CN,China,SP.POP.TOTL,"Population, total",2007,1317885000
+CN,China,SP.POP.TOTL,"Population, total",2008,1324655000
+CN,China,SP.POP.TOTL,"Population, total",2009,1331260000
+CN,China,SP.POP.TOTL,"Population, total",2010,1337705000
+CN,China,SP.POP.TOTL,"Population, total",2011,1345035000
+CN,China,SP.POP.TOTL,"Population, total",2012,1354190000
+CN,China,SP.POP.TOTL,"Population, total",2013,1363240000
+CN,China,SP.POP.TOTL,"Population, total",2014,1371860000
+CN,China,SP.POP.TOTL,"Population, total",2015,1379860000
+CN,China,SP.POP.TOTL,"Population, total",2016,1387790000
+CN,China,SP.POP.TOTL,"Population, total",2017,1396215000
+CN,China,SP.POP.TOTL,"Population, total",2018,1402760000
+CN,China,SP.POP.TOTL,"Population, total",2019,1407745000
+CN,China,SP.POP.TOTL,"Population, total",2020,1411100000
+CN,China,SP.POP.TOTL,"Population, total",2021,1412360000
+CN,China,SP.POP.TOTL,"Population, total",2022,1412175000
+CN,China,SP.POP.TOTL,"Population, total",2023,1410710000
+CN,China,SP.POP.TOTL,"Population, total",2024,1408975000
+DE,Germany,SP.POP.TOTL,"Population, total",2007,82266372
+DE,Germany,SP.POP.TOTL,"Population, total",2008,82110097
+DE,Germany,SP.POP.TOTL,"Population, total",2009,81902307
+DE,Germany,SP.POP.TOTL,"Population, total",2010,81776930
+DE,Germany,SP.POP.TOTL,"Population, total",2011,80274983
+DE,Germany,SP.POP.TOTL,"Population, total",2012,80425823
+DE,Germany,SP.POP.TOTL,"Population, total",2013,80645605
+DE,Germany,SP.POP.TOTL,"Population, total",2014,80982500
+DE,Germany,SP.POP.TOTL,"Population, total",2015,81686611
+DE,Germany,SP.POP.TOTL,"Population, total",2016,82348669
+DE,Germany,SP.POP.TOTL,"Population, total",2017,82657002
+DE,Germany,SP.POP.TOTL,"Population, total",2018,82905782
+DE,Germany,SP.POP.TOTL,"Population, total",2019,83092962
+DE,Germany,SP.POP.TOTL,"Population, total",2020,83160871
+DE,Germany,SP.POP.TOTL,"Population, total",2021,83196078
+DE,Germany,SP.POP.TOTL,"Population, total",2022,83177813
+DE,Germany,SP.POP.TOTL,"Population, total",2023,83287273
+DE,Germany,SP.POP.TOTL,"Population, total",2024,83516593
+FR,France,SP.POP.TOTL,"Population, total",2007,64016890
+FR,France,SP.POP.TOTL,"Population, total",2008,64375116
+FR,France,SP.POP.TOTL,"Population, total",2009,64706436
+FR,France,SP.POP.TOTL,"Population, total",2010,65026211
+FR,France,SP.POP.TOTL,"Population, total",2011,65340830
+FR,France,SP.POP.TOTL,"Population, total",2012,65657659
+FR,France,SP.POP.TOTL,"Population, total",2013,65997932
+FR,France,SP.POP.TOTL,"Population, total",2014,66312067
+FR,France,SP.POP.TOTL,"Population, total",2015,66548272
+FR,France,SP.POP.TOTL,"Population, total",2016,66724104
+FR,France,SP.POP.TOTL,"Population, total",2017,66918020
+FR,France,SP.POP.TOTL,"Population, total",2018,67158348
+FR,France,SP.POP.TOTL,"Population, total",2019,67382061
+FR,France,SP.POP.TOTL,"Population, total",2020,67601110
+FR,France,SP.POP.TOTL,"Population, total",2021,67842811
+FR,France,SP.POP.TOTL,"Population, total",2022,68184457
+FR,France,SP.POP.TOTL,"Population, total",2023,68372286
+FR,France,SP.POP.TOTL,"Population, total",2024,68551653
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2007,61322463
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2008,61806995
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2009,62276270
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2010,62766365
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2011,63258810
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2012,63711000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2013,64139000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2014,64620000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2015,65088000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2016,65607000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2017,65966000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2018,66289000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2019,66631000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2020,66744000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2021,66984000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2022,67604000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2023,68492000
+GB,United Kingdom,SP.POP.TOTL,"Population, total",2024,69226000
+ID,Indonesia,SP.POP.TOTL,"Population, total",2007,237062337
+ID,Indonesia,SP.POP.TOTL,"Population, total",2008,240157903
+ID,Indonesia,SP.POP.TOTL,"Population, total",2009,243220028
+ID,Indonesia,SP.POP.TOTL,"Population, total",2010,246305322
+ID,Indonesia,SP.POP.TOTL,"Population, total",2011,249470032
+ID,Indonesia,SP.POP.TOTL,"Population, total",2012,252698525
+ID,Indonesia,SP.POP.TOTL,"Population, total",2013,255852467
+ID,Indonesia,SP.POP.TOTL,"Population, total",2014,258877399
+ID,Indonesia,SP.POP.TOTL,"Population, total",2015,261799249
+ID,Indonesia,SP.POP.TOTL,"Population, total",2016,264627418
+ID,Indonesia,SP.POP.TOTL,"Population, total",2017,267346658
+ID,Indonesia,SP.POP.TOTL,"Population, total",2018,269951846
+ID,Indonesia,SP.POP.TOTL,"Population, total",2019,272489381
+ID,Indonesia,SP.POP.TOTL,"Population, total",2020,274814866
+ID,Indonesia,SP.POP.TOTL,"Population, total",2021,276758053
+ID,Indonesia,SP.POP.TOTL,"Population, total",2022,278830529
+ID,Indonesia,SP.POP.TOTL,"Population, total",2023,281190067
+ID,Indonesia,SP.POP.TOTL,"Population, total",2024,283487931
+IN,India,SP.POP.TOTL,"Population, total",2007,1190676021
+IN,India,SP.POP.TOTL,"Population, total",2008,1207930964
+IN,India,SP.POP.TOTL,"Population, total",2009,1225524753
+IN,India,SP.POP.TOTL,"Population, total",2010,1243481564
+IN,India,SP.POP.TOTL,"Population, total",2011,1261224954
+IN,India,SP.POP.TOTL,"Population, total",2012,1278674502
+IN,India,SP.POP.TOTL,"Population, total",2013,1295829511
+IN,India,SP.POP.TOTL,"Population, total",2014,1312277191
+IN,India,SP.POP.TOTL,"Population, total",2015,1328024498
+IN,India,SP.POP.TOTL,"Population, total",2016,1343944296
+IN,India,SP.POP.TOTL,"Population, total",2017,1359657400
+IN,India,SP.POP.TOTL,"Population, total",2018,1374659064
+IN,India,SP.POP.TOTL,"Population, total",2019,1389030312
+IN,India,SP.POP.TOTL,"Population, total",2020,1402617695
+IN,India,SP.POP.TOTL,"Population, total",2021,1414203896
+IN,India,SP.POP.TOTL,"Population, total",2022,1425423212
+IN,India,SP.POP.TOTL,"Population, total",2023,1438069596
+IN,India,SP.POP.TOTL,"Population, total",2024,1450935791
+IT,Italy,SP.POP.TOTL,"Population, total",2007,58756247
+IT,Italy,SP.POP.TOTL,"Population, total",2008,59211181
+IT,Italy,SP.POP.TOTL,"Population, total",2009,59555454
+IT,Italy,SP.POP.TOTL,"Population, total",2010,59819407
+IT,Italy,SP.POP.TOTL,"Population, total",2011,60026841
+IT,Italy,SP.POP.TOTL,"Population, total",2012,60191247
+IT,Italy,SP.POP.TOTL,"Population, total",2013,60311613
+IT,Italy,SP.POP.TOTL,"Population, total",2014,60320707
+IT,Italy,SP.POP.TOTL,"Population, total",2015,60229605
+IT,Italy,SP.POP.TOTL,"Population, total",2016,60115223
+IT,Italy,SP.POP.TOTL,"Population, total",2017,60002252
+IT,Italy,SP.POP.TOTL,"Population, total",2018,60148658
+IT,Italy,SP.POP.TOTL,"Population, total",2019,59729081
+IT,Italy,SP.POP.TOTL,"Population, total",2020,59438851
+IT,Italy,SP.POP.TOTL,"Population, total",2021,59133173
+IT,Italy,SP.POP.TOTL,"Population, total",2022,59013667
+IT,Italy,SP.POP.TOTL,"Population, total",2023,58984216
+IT,Italy,SP.POP.TOTL,"Population, total",2024,58952704
+JP,Japan,SP.POP.TOTL,"Population, total",2007,128001000
+JP,Japan,SP.POP.TOTL,"Population, total",2008,128063000
+JP,Japan,SP.POP.TOTL,"Population, total",2009,128047000
+JP,Japan,SP.POP.TOTL,"Population, total",2010,128070000
+JP,Japan,SP.POP.TOTL,"Population, total",2011,127833000
+JP,Japan,SP.POP.TOTL,"Population, total",2012,127629000
+JP,Japan,SP.POP.TOTL,"Population, total",2013,127445000
+JP,Japan,SP.POP.TOTL,"Population, total",2014,127276000
+JP,Japan,SP.POP.TOTL,"Population, total",2015,127141000
+JP,Japan,SP.POP.TOTL,"Population, total",2016,127076000
+JP,Japan,SP.POP.TOTL,"Population, total",2017,126972000
+JP,Japan,SP.POP.TOTL,"Population, total",2018,126811000
+JP,Japan,SP.POP.TOTL,"Population, total",2019,126633000
+JP,Japan,SP.POP.TOTL,"Population, total",2020,126261000
+JP,Japan,SP.POP.TOTL,"Population, total",2021,125681593
+JP,Japan,SP.POP.TOTL,"Population, total",2022,125124989
+JP,Japan,SP.POP.TOTL,"Population, total",2023,124516650
+JP,Japan,SP.POP.TOTL,"Population, total",2024,123975371
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2007,48683638
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2008,49054708
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2009,49307835
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2010,49554112
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2011,49936638
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2012,50199853
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2013,50428893
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2014,50746659
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2015,51014947
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2016,51217803
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2017,51361911
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2018,51585058
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2019,51764822
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2020,51836239
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2021,51769539
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2022,51672569
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2023,51712619
+KR,"Korea, Rep.",SP.POP.TOTL,"Population, total",2024,51751065
+MX,Mexico,SP.POP.TOTL,"Population, total",2007,108774360
+MX,Mexico,SP.POP.TOTL,"Population, total",2008,110374288
+MX,Mexico,SP.POP.TOTL,"Population, total",2009,111999721
+MX,Mexico,SP.POP.TOTL,"Population, total",2010,113623895
+MX,Mexico,SP.POP.TOTL,"Population, total",2011,115243504
+MX,Mexico,SP.POP.TOTL,"Population, total",2012,116818208
+MX,Mexico,SP.POP.TOTL,"Population, total",2013,118343573
+MX,Mexico,SP.POP.TOTL,"Population, total",2014,119784261
+MX,Mexico,SP.POP.TOTL,"Population, total",2015,121072306
+MX,Mexico,SP.POP.TOTL,"Population, total",2016,122251351
+MX,Mexico,SP.POP.TOTL,"Population, total",2017,123400057
+MX,Mexico,SP.POP.TOTL,"Population, total",2018,124573711
+MX,Mexico,SP.POP.TOTL,"Population, total",2019,125762982
+MX,Mexico,SP.POP.TOTL,"Population, total",2020,126799054
+MX,Mexico,SP.POP.TOTL,"Population, total",2021,127648148
+MX,Mexico,SP.POP.TOTL,"Population, total",2022,128613117
+MX,Mexico,SP.POP.TOTL,"Population, total",2023,129739759
+MX,Mexico,SP.POP.TOTL,"Population, total",2024,130861007
+TR,Turkiye,SP.POP.TOTL,"Population, total",2007,70158112
+TR,Turkiye,SP.POP.TOTL,"Population, total",2008,71051678
+TR,Turkiye,SP.POP.TOTL,"Population, total",2009,72039206
+TR,Turkiye,SP.POP.TOTL,"Population, total",2010,73142150
+TR,Turkiye,SP.POP.TOTL,"Population, total",2011,74223629
+TR,Turkiye,SP.POP.TOTL,"Population, total",2012,75175827
+TR,Turkiye,SP.POP.TOTL,"Population, total",2013,76147624
+TR,Turkiye,SP.POP.TOTL,"Population, total",2014,77181884
+TR,Turkiye,SP.POP.TOTL,"Population, total",2015,78218479
+TR,Turkiye,SP.POP.TOTL,"Population, total",2016,79277962
+TR,Turkiye,SP.POP.TOTL,"Population, total",2017,80312698
+TR,Turkiye,SP.POP.TOTL,"Population, total",2018,81407204
+TR,Turkiye,SP.POP.TOTL,"Population, total",2019,82579440
+TR,Turkiye,SP.POP.TOTL,"Population, total",2020,83384680
+TR,Turkiye,SP.POP.TOTL,"Population, total",2021,84147318
+TR,Turkiye,SP.POP.TOTL,"Population, total",2022,84979913
+TR,Turkiye,SP.POP.TOTL,"Population, total",2023,85325965
+TR,Turkiye,SP.POP.TOTL,"Population, total",2024,85518661
+US,United States,SP.POP.TOTL,"Population, total",2007,301231207
+US,United States,SP.POP.TOTL,"Population, total",2008,304093966
+US,United States,SP.POP.TOTL,"Population, total",2009,306771529
+US,United States,SP.POP.TOTL,"Population, total",2010,309378227
+US,United States,SP.POP.TOTL,"Population, total",2011,311839461
+US,United States,SP.POP.TOTL,"Population, total",2012,314339099
+US,United States,SP.POP.TOTL,"Population, total",2013,316726282
+US,United States,SP.POP.TOTL,"Population, total",2014,319257560
+US,United States,SP.POP.TOTL,"Population, total",2015,321815121
+US,United States,SP.POP.TOTL,"Population, total",2016,324353340
+US,United States,SP.POP.TOTL,"Population, total",2017,326608609
+US,United States,SP.POP.TOTL,"Population, total",2018,328529577
+US,United States,SP.POP.TOTL,"Population, total",2019,330226227
+US,United States,SP.POP.TOTL,"Population, total",2020,331577720
+US,United States,SP.POP.TOTL,"Population, total",2021,332099760
+US,United States,SP.POP.TOTL,"Population, total",2022,334017321
+US,United States,SP.POP.TOTL,"Population, total",2023,336806231
+US,United States,SP.POP.TOTL,"Population, total",2024,340110988

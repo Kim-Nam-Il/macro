@@ -1,0 +1,271 @@
+﻿country_id,country_name,indicator_id,indicator_name,date,value
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,764543805901.331
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,799310108426.021
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,877090906570.653
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,870350207285.626
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,941694925125.012
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,977704262344.046
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,1066749681955.16
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,1105906481907.95
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,1106600366019.74
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,1147766860944.62
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,1194334822507.21
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,1257430105896.14
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,1339853335919.13
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,1389782994669.37
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,1498163677059.36
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,1719920190001.38
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,1926784790365.08
+AU,Australia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,1961194326932.44
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,2389430239797.43
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,2559535104821.96
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,2572081759722.11
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,2799325235337.53
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,2970630762000.35
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,2992140131483.82
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,3120542014227.65
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,3166808963776.93
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2989121457690.69
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2907889886403.3
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2980287463663.11
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,3187189640210.35
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,3333775621490.88
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,3359777233354.22
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,3787769507579.26
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,4180229770179.53
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,4471035569095.19
+BR,Brazil,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,4735725154575.41
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,1301509598020.75
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,1342395839240.43
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,1306973730504.57
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,1363742477522.61
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,1430806739876.64
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,1468097961846.59
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,1554125000000.0
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,1621395561291.92
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,1594851775821.65
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,1678092366067.55
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,1765762548007.76
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,1852985933143.48
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,1899695367283.6
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,1847837502049.2
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,2179485548675.88
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,2489723452361.1
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,2574133981207.77
+CA,Canada,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,2667672051123.37
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,9139882776535.16
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,10216860129733.1
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,11246461601887.2
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,12589326651290.3
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,14064750800821.1
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,15465192010738.5
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,16670208037942.1
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,17754058548307.5
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,18577514881891.3
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,19647292057520.3
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,20974552138879.6
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,22862470132646.1
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,24777565958500.9
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,25777238693451.8
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,29438240129870.1
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,32525464028395.1
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,35520435397067.7
+CN,China,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,38190084585497.8
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,3036781051743.85
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,3156602685759.77
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,3077396547215.52
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,3248678391941.08
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,3483801358877.91
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,3557185428697.0
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,3700747563191.81
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,3882203613560.02
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,3965509264614.03
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,4246712764148.14
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,4472591345398.59
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,4665360433368.5
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,4924980320308.75
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,4880368289108.08
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,5202314428956.09
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,5743343845281.17
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,5970367475258.68
+DE,Germany,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,6142807000522.21
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,2180814695442.95
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,2256557852935.91
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,2244343116045.36
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,2334932124579.62
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,2450959100790.27
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,2473391243170.39
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,2612419376499.27
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,2666947056893.25
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2722168830237.4
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2861145268728.43
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2975787193760.88
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,3114875305157.86
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,3445276604424.65
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,3345024904336.18
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,3562923665911.39
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,3889442223781.32
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,4159697519910.85
+FR,France,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,4288380142651.84
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,2178297088011.19
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,2271085135764.89
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,2182256507802.32
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,2289940963181.35
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,2354769903633.16
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,2442462879506.98
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,2562195072837.32
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,2666661894153.29
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2767234470818.76
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2892297884267.13
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,3041891554350.64
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,3129649825363.45
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,3335878386954.67
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,3219066303872.09
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,3416480549650.65
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,3990094365696.7
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,4103447962718.85
+GB,United Kingdom,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,4292669008496.52
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,1682286249852.04
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,1817815939022.92
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,1913691221459.02
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,2057500878595.33
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,2229511719014.97
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,2408290405583.69
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,2524244786997.21
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,2605517436520.51
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2625201734355.44
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2715764060542.74
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2857305082359.12
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,3069918631697.01
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,3266185831776.73
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,3223404542894.6
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,3530623140454.75
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,3983074391531.86
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,4334743944551.08
+ID,Indonesia,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,4662887595103.26
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,4176965103209.64
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,4388857508366.17
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,4763102417294.42
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,5230655285642.35
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,5618380734786.9
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,6162754462198.7
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,6497743441802.88
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,6812807109169.83
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,7204580698460.8
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,7795524017465.34
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,8354710136357.47
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,9230789424534.98
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,9932850520576.54
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,9771021183358.88
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,11384367630967.9
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,13124053155136.1
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,14845911292307.9
+IN,India,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,16192422603162.4
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,2004029153747.96
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,2097398729606.2
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,2054765138278.71
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,2092130192358.42
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,2184513771818.95
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,2183804737265.14
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,2198918891792.88
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,2211700088150.52
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2251646419220.95
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2433618302347.89
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2528635516998.96
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,2609651815348.66
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,2787073032822.59
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,2641203589480.81
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,2946333608376.65
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,3379175362343.35
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,3540814919536.37
+IT,Italy,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,3655908756610.36
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,4481997036213.17
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,4517267516318.56
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,4295134284604.43
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,4525482550835.84
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,4629400479632.82
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,4799612889015.1
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,5021591088716.88
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,5034454618847.27
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,5199915217476.25
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,5158900389806.62
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,5262254961496.84
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,5344060957173.06
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,5404462313923.94
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,5356710635860.81
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,5574650884739.54
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,5904904744687.14
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,6308233428525.37
+JP,Japan,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,6451575612481.29
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,1472942503438.35
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,1531049402635.08
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,1515720738976.03
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,1641249629244.75
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,1695061783755.07
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,1760084816235.68
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,1807584606267.19
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,1879259025687.7
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2030098805867.59
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2134380442776.72
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2216570013000.47
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,2347691719530.07
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,2407645008550.9
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,2481996469956.38
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,2677430056971.27
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,2868310039875.42
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,2969845527350.41
+KR,"Korea, Rep.",NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,3159472343387.38
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,1635050538985.97
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,1730732432366.58
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,1701373700360.82
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,1807659191042.35
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,1989888022736.31
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,2103287719177.25
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,2150334057594.28
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,2254435512803.84
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2309023754637.44
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2457812552694.79
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2528308608734.21
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,2606266095235.82
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,2636530051952.23
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,2454084724593.04
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,2652858835882.47
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,2975527888656.19
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,3275042077168.85
+MX,Mexico,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,3426642116491.59
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,1048943872210.09
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,1146894075526.16
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,1120911497659.77
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,1277520114146.55
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,1463485391067.47
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,1559091965238.24
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,1711440006671.06
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,1867225631776.81
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,2025080714730.59
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,2119160173385.16
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,2277149346739.11
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,2331530015986.67
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,2396162651371.03
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,2435610709000.62
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,2701595710002.02
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,3362154653488.2
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,3650773845907.95
+TR,Turkiye,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,3902987817630.99
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2007,14474228000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2008,14769862000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2009,14478067000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2010,15048971000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2011,15599732000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2012,16253970000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2013,16880683000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2014,17608138000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2015,18295019000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2016,18804913000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2017,19612102000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2018,20656516000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2019,21539981999999.9
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2020,21354104999999.9
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2021,23681171000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2022,26006893000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2023,27720709000000.0
+US,United States,NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",2024,29184890000000.1

@@ -1,0 +1,271 @@
+﻿country_id,country_name,indicator_id,indicator_name,date,value
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,2.32761128891476
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,4.35029854990048
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,1.77111716621254
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,2.91834002677376
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,3.3038501560874
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,1.76278015613196
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,2.4498886414254
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,2.48792270531404
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,1.50836672165921
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.27699094497324
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.94864740944527
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.91140094445691
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.61076787290379
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.846905537459305
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,2.86391042204994
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.59409671341846
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.5970149253731
+AU,Australia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,3.1616142830575
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,3.64127299102652
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,5.67859390284168
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,4.88803479876799
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,5.03872690108075
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,6.6364496221309
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,5.40349914036997
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,6.20431066640101
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,6.32904015516139
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,9.02990102416136
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,8.73914352329393
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,3.44637335032669
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,3.66485028376729
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,3.73297621216894
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,3.21176803803376
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,8.30165975585673
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,9.28010608956873
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.59356282283204
+BR,Brazil,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.36746407652337
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,2.13838399266837
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,2.37027067444299
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,0.299466803009299
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,1.77687154092627
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,2.91213508872351
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,1.51567823124517
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,0.938291897815317
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,1.90663590717861
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,1.12524136094277
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.42875954701085
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.59688412852977
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.26822567248103
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.94926902411593
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.716999632307827
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,3.39519318527528
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.80280115341613
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,3.87900159788426
+CA,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.38158383281173
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,4.81676767378834
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,5.92525137041092
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,-0.728165250932898
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,3.17532475269199
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,5.55389892257493
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,2.61952432645541
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,2.62105001748115
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,1.92164162788521
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,1.43702380935655
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,2.00000182191943
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.59313600071436
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.07479039965576
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,2.89923416358227
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,2.41942189457782
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,0.981015135544882
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,1.97357555739051
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,0.234836828893051
+CN,China,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,0.218128938439177
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,2.29834400700951
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,2.62837981637219
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,0.312739007368447
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,1.1038103778926
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,2.07517283735874
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,2.00848884782956
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,1.50472330251876
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,0.906794000434246
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.514426137125456
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,0.491747008445174
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.50949485109628
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.73216879766942
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.44565976888253
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.144877925813982
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,3.06666666666673
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.87257438551097
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.94643667725823
+DE,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.2564981433876
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,1.4879980595386
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,2.81286194914787
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,0.0876204781574552
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,1.53112270420926
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,2.11159795174994
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,1.9541953161351
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,0.863715497861805
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,0.50775882293799
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.0375143805125182
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,0.18333486112386
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.03228275064662
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.85081508315502
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.10825492288294
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.476498852725066
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.64233141038385
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,5.22236748369735
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.87835726508441
+FR,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,1.99904942291463
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,2.38656150773327
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,3.52140856342539
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,1.96173173560109
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,2.49265472467065
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,3.8561124468282
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,2.5732347965453
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,2.29166666666659
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,1.45112016293279
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.36804684232536
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.0084173681141
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,2.55775577557747
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.29283990345938
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.73810460086513
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.989486703772491
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,2.51837109614213
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,7.92204883147902
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,6.79396706793963
+GB,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,3.2715729463592
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,6.40656087966005
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,10.2266663272483
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,4.38641311792074
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,5.13420639015885
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,5.35604849112582
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,4.2795142691943
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,6.41249457900391
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,6.39492882396559
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,6.36312061196646
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,3.52580452815451
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,3.80879857691949
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,3.19834755924996
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,3.03058460941661
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,1.91983527270793
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.56007882983334
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,4.20946463714784
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,3.66938654859761
+ID,Indonesia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.18151273615189
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,6.37288135593231
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,8.34926704907581
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,10.8823529411764
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,11.9893899204244
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,8.91179336483371
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,9.47899691419801
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,10.0178784746102
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,6.66565671867899
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,4.90697344127256
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,4.94821634062141
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,3.32817337461298
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,3.9388264669163
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,3.72950573539129
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,6.62343677628535
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,5.13140747176369
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.69903414079852
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.64914318907925
+IN,India,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.95303550973656
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,1.82974112202403
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,3.34783258401022
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,0.774768131387381
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,1.52551602118248
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,2.78063272879323
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,3.04136333226775
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,1.21999342274306
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,0.241047429826756
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.0387903996579733
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,-0.09401665691575
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.22653316645812
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.13748763600391
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.611246943765304
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,-0.13770757391651
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.87378325762481
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,8.20128991161718
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.62219442195901
+IT,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,0.982373023061417
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,0.060039454498669
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,1.3800788616492
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,-1.35283672951719
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,-0.728243207517779
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,-0.27245561610124
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,-0.0440645104432602
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,0.335037912184741
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,2.75922671353253
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.795279630579839
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,-0.127258844489754
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,0.484199796126385
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,0.989094598021848
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.46877615938395
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,-0.024995834027731
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,-0.233352779398264
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,2.49770278172255
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,3.26813365933163
+JP,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.73853681635241
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,2.53457382137932
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,4.67389655533408
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,2.7564965449393
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,2.93928652655686
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,4.0259650043609
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,2.18707104433314
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,1.30134754547413
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,1.27477446401322
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.70633177245575
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,0.971685739912168
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.94433230786366
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.47583935002645
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.383000303608136
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.537288023411737
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,2.49833333333339
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,5.08951365062842
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,3.5974562502901
+KR,"Korea, Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.32174328643542
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,3.96684905458235
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,5.12498274575896
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,5.29735584228856
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,4.15672722680174
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,3.40737824605742
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,4.11150981070289
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,3.80639069747204
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,4.01861608078679
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,2.72064064964023
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,2.8217078474766
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,6.04145724018986
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,4.89935015356551
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,3.63596142127046
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,3.39683415570006
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,5.68920847683753
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,7.8962761916855
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.52796087314389
+MX,Mexico,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.72225588452932
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,8.75618090972639
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,10.4441283764885
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,6.25097663090626
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,8.56644420552976
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,6.471879671151
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,8.89156996512163
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,7.49309030547693
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,8.85457271364324
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,7.67085364845877
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,7.7751341532833
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,11.1443110840765
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,16.3324638988928
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,15.1768215720022
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,12.2789574462574
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,19.5964926913324
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,72.3088359891207
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,53.8594087593315
+TR,Turkiye,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,58.5064507300343
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,2.85267248150138
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,3.839100296651
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,-0.355546266299747
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,1.6400434423899
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,3.156841568622
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,2.06933726526067
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,1.46483265562717
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,1.62222297740817
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.118627135552451
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.26158320570536
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,2.13011000365961
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.44258329692817
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.81221007526021
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,1.23358439630629
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,4.69785886363742
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,8.00279982052121
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.11633838374488
+US,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.94952520485207

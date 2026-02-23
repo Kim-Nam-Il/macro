@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local environment files
+.venv/
+venv/
+.env
+.env.*
+
+# Local secrets
+fred_api_key.txt
+
+manual.pdf
